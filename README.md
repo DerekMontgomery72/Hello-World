@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+
+First project created and added to GitHub
+Currently working thorugh the tutorial
